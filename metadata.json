@@ -1,0 +1,6 @@
+{
+  "name": "Nanhe Sitare - Kids Learning & Fun",
+  "description": "Interactive learning app for young kids to learn colors, alphabets, and numbers through joyful games, speech narration, star rewards, offline support, and parental controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
